@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Arashi 2: Blue Shadow",
+  "description": "An action-packed silhouette ninja platformer inspired by Ninja Arashi 2, featuring a dark blue and black aesthetic, 10 expansive stages with 20 levels each, authentic ninja acrobatics, sword slashes, shuriken, shadow dash, disguise skill, traps, and torii checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
